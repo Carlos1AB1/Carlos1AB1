@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>¡Hola, soy Carlos Arturo! </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtmNnp3Z2I2bnI4bWh5cTE5eXVmdTl6a2dvc210c3VnM2N2YTg5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/miye89YLK1HZockgvv/giphy.gif" width="35"></h1>
+<h1 align="center"><b>¡Hola, soy Carlos Arturo! </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJhZGkxOTNlb3p4c3Y5cndka21rbHY2NDVzMDB0M3BqeGdsamRpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/ehC4SqtNcEeLAiu66w/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
