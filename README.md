@@ -44,7 +44,7 @@
 ---
 
 ## 📬 Contacto
-Si deseas saber más sobre mí, visita la sección [Acerca de](https://www.dzenis.tech/about) de mi sitio web personal.
+Si deseas saber más sobre mí, visita la sección [Acerca de]() de mi sitio web personal.
 
 💌 Email ➖ cabaron_23@cue.edu.co 
 
