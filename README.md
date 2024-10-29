@@ -21,7 +21,7 @@ Me apasiona la programación y el humor en línea.
 ### Herramientas:
 <div>
   <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/> 
-  <img src="https://img.shields.io/badge/After%20Effects-%999999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/> 
+  <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects Badge">
   <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?logo=linux&logoColor=black" alt="Linux"/> 
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git"/> 
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub"/>
@@ -48,8 +48,7 @@ Si quieres saber más sobre mí, visita la sección [Acerca de](https://www.dzen
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # 📬 Contacto
-💌 Contacto ➖ contact.dzenis.h@gmail.com (para contacto general)  
-📩 Desarrollo ➖ developer.dzenis@icloud.com (para solicitudes específicas de desarrollo)
+💌 Contacto ➖ cabaron_23@cue.edu.co 
 
 <div align="center">
   <div class="icons-social">
