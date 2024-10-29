@@ -44,7 +44,8 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <p>
 <div align="center">
-  
+
+<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop Badge">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg" alt="JavaScript Badge">
