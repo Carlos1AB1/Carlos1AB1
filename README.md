@@ -50,13 +50,10 @@ Si deseas saber más sobre mí, visita la sección [Acerca de](https://www.dzeni
 
 <div align="center">
   <div class="icons-social">
-    <a href="https://www.dzenis.tech"><img src="https://img.icons8.com/?size=50&id=ipBLdOAQ6sRn&format=png" alt="Website"></a>
-    <a href="https://www.linkedin.com/in/dzenis-h//"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
-    <a href="https://github.com/dzenis-h"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
-    <a href="https://stackoverflow.com/users/8146571/dzenis-h?tab=profile"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow"></a>
-    <a href="https://twitter.com/BiggaHd"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter"></a>
+    <a href="mailto:tu-email@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"></a>
   </div>
 </div>
+
 
 ---
 
@@ -65,10 +62,11 @@ Si deseas saber más sobre mí, visita la sección [Acerca de](https://www.dzeni
   
 <div align="center">
   
-  [![Lenguaje mas Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark)](https://github.com/dzenis-h) 
+  [![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark&custom_title=Lenguajes+más+Usados)](https://github.com/Carlos1AB1)
   ![Estadísticas de Carlos Arturo](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues&custom_title=Estadísticas+de+Carlos+Arturo)
-  
-  ![Views](https://komarev.com/ghpvc/?username=dzenis-h&label=Profile+visitors)
+
+  ![Visitas](https://komarev.com/ghpvc/?username=dzenis-h&label=Visitas+al+perfil)
+
   
 </div>
 
@@ -83,14 +81,15 @@ Si deseas saber más sobre mí, visita la sección [Acerca de](https://www.dzeni
     </picture>
   </div>
   
-  <p align="center">
-    Contador de visitantes
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </p>
-</div>
+<p align="center"> 
+        <div align="center">Contador de visitas</div>
+        <div align="center">
+            <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+        </div> 
+    </p>
 
 <p align="center">
-  Hecho con :heart: usando GitHub Markdown por Aadi
+  Con emoción, Carlos Arturo.
   <br />
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
