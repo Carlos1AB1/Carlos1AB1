@@ -47,9 +47,9 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop Badge">
 <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects Badge">
-<img src="https://img.shields.io/badge/Java-%23D00000.svg?logo=java&logoColor=white" alt="Java Badge">
-<img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?logo=linux&logoColor=black" alt="Linux Badge">
+<img src="https://img.shields.io/badge/Java-%23D00000.svg?logo=oracle&logoColor=white" alt="Java Badge">
 
+<img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?logo=linux&logoColor=black" alt="Linux Badge">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript Badge">
