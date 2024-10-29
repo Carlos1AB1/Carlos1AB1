@@ -1,7 +1,7 @@
 <div align="center">
 <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ0b2I2N2FzZHIxd2lzOGgwaTdyZDA2czNodXdwZjllOXRyMDExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif"/>
 
-# ¡Hola, soy Carlos Arturo! 👨🏻‍💻💡🔮
+# ¡Hola, soy Carlos Arturo! 👨🏻‍💻
 
 **Estudiante de Ingeniería de Software**  
 *Colombia | 20 años*  
@@ -31,15 +31,21 @@ Me apasiona la programación y el humor en línea.
 
 # 💼 Experiencia
 
-### Pasantía en Desarrollo de Software
-**[Nombre de la Empresa]** — [Mes/Año] a [Mes/Año]
-- Desarrollé [especificar proyectos o tareas relevantes].
-- Colaboré en un equipo ágil para implementar nuevas funcionalidades.
-- Mejora de la calidad del código y reducción de errores en un X%.
+### Proyectos Académicos y Actividades Universitarias
 
-### Proyectos Personales
-- **[Nombre del Proyecto]**: [Descripción breve de lo que hiciste y las tecnologías utilizadas]
-- **[Nombre del Proyecto]**: [Descripción breve de lo que hiciste y las tecnologías utilizadas]
+- **Proyectos de Curso**  
+  Durante mis estudios en Ingeniería de Software, he participado en varios proyectos académicos, donde he desarrollado habilidades en diferentes áreas. Algunos de estos proyectos incluyen:
+  - **Desarrollo de una Aplicación Simple**: Trabajé en la creación de una aplicación utilizando **Java** como parte de un proyecto de clase. Aprendí sobre la estructura y el diseño de aplicaciones, así como la implementación de características básicas.
+  - **Trabajo en Grupo en Desarrollo Web**: Colaboré con mis compañeros en un proyecto que requería investigación y desarrollo en **HTML, CSS y JavaScript**. Esto me permitió mejorar mis habilidades de trabajo en equipo y comunicación, además de aplicar mis conocimientos en la creación de interfaces de usuario.
+
+- **Participación en Talleres y Seminarios**  
+  He asistido a varios talleres y seminarios sobre temas como **desarrollo ágil y metodologías de programación**, lo que me ha proporcionado conocimientos adicionales y una comprensión más profunda de la industria.
+
+- **Proyectos Personales**  
+  Aunque aún no he trabajado en proyectos formales, he explorado el desarrollo personal y he creado proyectos pequeños en mi tiempo libre, como **una página web personal** donde practiqué mis habilidades en **HTML y CSS**, y **un bot simple en JavaScript** para automatizar tareas.
+
+---
+
 
 ---
 
