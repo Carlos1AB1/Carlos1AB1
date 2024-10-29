@@ -109,11 +109,11 @@ If you would like to know more about me, may I suggest visiting the [About](http
 
 </div><br>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </div> 
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown by Aadi
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
 ---
