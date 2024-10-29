@@ -52,6 +52,9 @@ If you would like to know more about me, may I suggest visiting the [About](http
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop Badge">
 <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects Badge">
 <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?logo=linux&logoColor=black" alt="Linux Badge">
+<img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub Badge">
+
 
 </div>
 </p><br>
