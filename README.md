@@ -82,7 +82,7 @@ Si deseas saber más sobre mí, visita la sección [Acerca de](https://www.dzeni
   </div>
   
 <p align="center"> 
-        <div align="center">Contador de visitas</div>
+        <div align="center">Contador de visitas: </div>
         <div align="center">
             <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
         </div> 
