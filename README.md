@@ -54,8 +54,6 @@ If you would like to know more about me, may I suggest visiting the [About](http
 <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?logo=linux&logoColor=black" alt="Linux Badge">
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub Badge">
-<img src="https://img.shields.io/badge/Programming%20Principles-%233B5998.svg?logo=facebook&logoColor=white" alt="Programming Principles Badge">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="Visual Studio Code Badge">
 
 
 
