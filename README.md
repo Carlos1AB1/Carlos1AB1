@@ -1,95 +1,84 @@
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ0b2I2N2FzZHIxd2lzOGgwaTdyZDA2czNodXdwZjllOXRyMDExeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" alt="Hello, I'm Carlos Arturo!" />
-  
-  # ¡Hola, soy Carlos Arturo! 👨🏻‍💻
-  **Estudiante de Ingeniería de Software**  
-  *Colombia | 20 años*  
-  Apasionado por la programación y el humor en línea.
-</div>
+# Carlos Arturo 👨🏻‍💻
 
----
+## 🚀 Software Engineering Student | Colombia
 
-## 📖 Habilidades
+> Profesional proactivo, con rápida capacidad de aprendizaje y adaptación, siempre enfocado en la eficiencia y la excelencia.
 
-### Lenguajes
-<div>
-  <img src="https://img.shields.io/badge/Java-%23D00000.svg?logo=java&logoColor=white" alt="Java"/> 
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5"/> 
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Website](https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=firefox-browser)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
-### Herramientas
-<div>
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/> 
-  <img src="https://img.shields.io/badge/After%20Effects-%239999FF.svg?logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects Badge"/>
-  <img src="https://img.shields.io/badge/Linux-%23FFFFFF.svg?logo=linux&logoColor=black" alt="Linux"/> 
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git"/> 
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub"/>
-</div>
+## 💻 Technical Skills
 
----
+### Languages
+![Java](https://img.shields.io/badge/Java-Expert-red?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=flat-square&logo=python)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-Advanced-green?style=flat-square&logo=html5)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue?style=flat-square&logo=mysql)
 
-## 💼 Experiencia
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-green?style=flat-square&logo=spring-boot)
+![Django](https://img.shields.io/badge/Django-Intermediate-green?style=flat-square&logo=django)
+![React](https://img.shields.io/badge/React-Intermediate-blue?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-blue?style=flat-square&logo=tailwind-css)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Learning-blue?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
 
-### Proyectos Académicos y Actividades Universitarias
-- **Proyectos de Curso**: He desarrollado diversas aplicaciones y herramientas como parte de mi formación en Ingeniería de Software.
-  - **Desarrollo de una Aplicación Simple**: Creé una aplicación en **Java**, aprendiendo sobre la estructura y diseño de software.
-  - **Desarrollo Web**: Colaboré en un proyecto grupal utilizando **HTML, CSS y JavaScript**, donde mejoré mis habilidades de comunicación y trabajo en equipo.
-
-- **Talleres y Seminarios**: He asistido a eventos sobre **metodologías ágiles y desarrollo de software**, lo que ha ampliado mis conocimientos sobre la industria.
-
-- **Proyectos Personales**: He explorado el desarrollo personal a través de proyectos pequeños como una **página web personal** y un **bot en JavaScript** para automatizar tareas.
-
----
-
-## 📬 Contacto
-Si deseas saber más sobre mí, visita la sección [Acerca de]() de mi sitio web personal.
-
-💌 Email ➖ 
+## 📊 GitHub Stats
 
 <div align="center">
-  <div class="icons-social">
-    <a href="mailto:tu-email@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"></a>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos1AB1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+## 🔭 Projects
+
+### 🌐 Backend & API Development
+
+- **[API-REST-PYTHON-DJANGO-framework](https://github.com/your-username/API-REST-PYTHON-DJANGO-framework)**  
+  RESTful API built with Django and Python, implementing modern backend development practices and secure API endpoints.
+  
+- **[API-REST-ejercicio-PRE-PARCIAL-springboot](https://github.com/your-username/API-REST-ejercicio-PRE-PARCIAL-springboot)**  
+  Spring Boot application showcasing REST API development with Java, including proper request handling and response formatting.
+
+- **[Java-CRUD-API-SPRINGBOOT-SQL](https://github.com/your-username/Java-CRUD-API-SPRINGBOOT-SQL)**  
+  Complete CRUD operations implementation using Spring Boot and SQL database, demonstrating backend data management.
+
+- **[PRUEBAS.UNITARIAS___Java-CRUD-API-SPRINGBOOT-SQL](https://github.com/your-username/PRUEBAS.UNITARIAS___Java-CRUD-API-SPRINGBOOT-SQL)**  
+  Extension of the CRUD API project with comprehensive unit testing, ensuring code quality and reliability.
+
+### 💻 Web Development
+
+- **[servicio-web-Jax-rs-y-JSP](https://github.com/your-username/servicio-web-Jax-rs-y-JSP)**  
+  Web service implemented with JAX-RS and JSP, showcasing Java web development skills and server-side rendering.
+
+- **[Clínica de Psicología - Universidad Alexander Von Humboldt](https://github.com/your-username/psychology-clinic)**  
+  Interactive platform for university students to book appointments with specialized psychologists. Built with HTML, CSS (Tailwind), JavaScript, and features a modern, accessible interface with secure student registration, appointment management, and psychologist availability tracking.
+
+### 🗃️ Database Projects
+
+- **[CRUD-Python-MySQL](https://github.com/your-username/CRUD-Python-MySQL)**  
+  Python application implementing CRUD operations with MySQL database, demonstrating data management and SQL skills.
+
+## 🌱 Currently Learning
+
+- Advanced Spring Boot microservices architecture
+- Cloud deployment and containerization (Docker, Kubernetes)
+- React frontend development with modern state management
+
+## 🤝 Open to Collaborate On
+
+- Backend development with Java or Python
+- Full-stack web applications with practical use cases
+- Open source projects that solve real-world problems
 
 ---
 
-## 📊 Estadísticas de GitHub
 <div align="center">
-  
-<div align="center">
-  
-  [![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=dzenis-h&layout=compact&theme=dark&custom_title=Lenguajes+más+Usados)](https://github.com/Carlos1AB1)
-  ![Estadísticas de Carlos Arturo](https://github-readme-stats.vercel.app/api?username=dzenis-h&count_private=true&show_icons=true&theme=dark&hide=issues&custom_title=Estadísticas+de+Carlos+Arturo)
-
-  ![Visitas](https://komarev.com/ghpvc/?username=dzenis-h&label=Visitas+al+perfil)
-
-  
+  <i>Let's connect and build something amazing together!</i>  
+  <br><br>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </div>
-
----
-
-
-  <div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
-  
-<p align="center"> 
-        <div align="center">Contador de visitas: </div>
-        <div align="center">
-            <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-        </div> 
-    </p>
-
-<p align="center">
-  Con emoción, Carlos Arturo.
-  <br />
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-</p>
